@@ -1,3 +1,5 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Préface](README.md)
+* [I - Tour d'horizon](chapter1.md)
+
