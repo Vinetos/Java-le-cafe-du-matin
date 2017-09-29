@@ -17,14 +17,10 @@ En 2016, Java était le langage **le plus demandé** à hauteur de 28%. Il perme
 Java est un langage parfait pour une première fois :
 
 * Il est **fortement typé. **Vous **savez **avec quoi vous travailler.
-* Il gère la mémoire **tout seul. **Presque aucun risques de tout casser ! \(les poiteurs ? je ne connais pas\)
+* Il gère la mémoire **tout seul. **Presque aucun risque de tout casser ! \(les poiteurs ? je ne connais pas\)
 * Il est **portable**, **indépendant **de toute plate-forme. Un code pour Windows, MacOS, Linux... ce n'est pas beau ? 
 * Il est **multitâches**.
 * Il est **simple**. Chaque ligne peut être traduite littéralement pour en comprendre le sens.
 
-
-
 Java est donc d'après moi, l'un des **meilleurs langages** pour débuter.
-
-
 
