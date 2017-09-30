@@ -5,8 +5,7 @@
 * [1. Préface](README.md)
 * [2. Introduction à Java](introduction/introduction.md)
 
+## Java Virtual Machine
 
-## Java 
-
-* [1. Content Provider](chapter1/README.md)
+* [1. La machine virtuelle Java](jvm/jvm.md)
 
