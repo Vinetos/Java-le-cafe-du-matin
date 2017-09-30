@@ -8,7 +8,11 @@
   * [IDE](introduction/ide.md)
   * [Hello World](introduction/helloworld.md)
 
+---
+
 ## Java Virtual Machine
 
 * [La machine virtuelle Java](jvm/jvm.md)
+
+
 
