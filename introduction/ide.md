@@ -10,6 +10,6 @@ Le choix d'un IDE est **très important**. C’est ce qui vous fera **gagner én
 
 Pour ce tutoriel, j’ai choisi de vous parler d’**[IntelliJ IDEA](https://www.jetbrains.com/idea/)** par [Jetbrain](https://www.jetbrains.com/). C'est pour moi **le meilleur** IDE Java actuellement.
 
+![](/assets/chrome_2017-09-30_13-58-32.png)
 
-
-
+Nous allons dans ce tutoriel utilisé la **version gratuite ** et **open-source** d'IntelliJ IDEA, qui se nomme « **Community Edition** »
