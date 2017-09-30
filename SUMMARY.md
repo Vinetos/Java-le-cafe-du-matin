@@ -1,11 +1,12 @@
-# Sommaire 
+# Summary
 
-## Introduction 
+## Introduction
 
-* [1. Préface](README.md)
-* [2. Introduction à Java](introduction/introduction.md)
+* [Préface](README.md)
+  * [Introduction à Java](introduction/introduction.md)
+
 
 ## Java Virtual Machine
 
-* [1. La machine virtuelle Java](jvm/jvm.md)
+* [La machine virtuelle Java](jvm/jvm.md)
 
