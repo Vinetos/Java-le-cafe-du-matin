@@ -1,4 +1,4 @@
-# I - Tour d'horizon
+# Tour d'horizon
 
 Pour commencer en beauté, je vous propose de définir « **Java** ».
 
