@@ -14,5 +14,5 @@ La différence entre JDK et JRE se présent de la façon suivante :
 Aujoud'hui la plupart des IDEs dont nous verrons la définition plus tard **intègrent** leurs propres JDK. Pas besoin de le télécharger donc ! En revanche, il nous faudra le JRE. 
 Pour cela, téléchargez-le sur [le site de Java](https://www.java.com).
 
-[^1] : Java Virtual Machine ou Machine Virtuelle Java en français
+[^1]: Java Virtual Machine ou Machine Virtuelle Java en français
 
