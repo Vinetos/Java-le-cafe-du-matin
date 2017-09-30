@@ -42,3 +42,13 @@ public class HelloWorld {
 Votre fichier doit ressembler à ceci:
 
 ![](assets/helloworld/step5.png)
+
+Cliquez sur la petite flèche verte à gauche du numéro des lignes et séléctionnez « **Run 'HelloWorld.main()'** ».
+
+![](assets/helloworld/step6.png)
+
+Une fenêtre s'ouvre en bas et vous affiche « Hello World ! ».
+
+![](assets/helloworld/step7.png)
+
+**Félicitation**, vous venez de **créer, compiler et éxécuter** votre **premier** programme !
