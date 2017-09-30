@@ -6,7 +6,7 @@ Pour commencer en beauté, je vous propose de définir « **Java** ».
 
 Java est un **langage de programmation**[^1] développé initialement par **Sun Microsystems** \(aujourd’hui racheté par **Oracle**\).
 
-Java s’est plus de **10 millions** **de développeurs** à travers le monde, quelques **3 milliards de dispositifs** pouvant le mettre en œuvre. Il est présent chez plus de **97% des entreprises** dont Google, Facebook et bien d’autre.
+Java c’est plus de **10 millions** **de développeurs** à travers le monde, quelques **3 milliards de dispositifs** pouvant le mettre en œuvre. Il est présent chez plus de **97% des entreprises** dont Google, Facebook et bien d’autre.
 
 En 2016, Java était le langage **le plus demandé** à hauteur de 28%. Il permet de réaliser énormément de choses bien différentes: des applications pour mobile comme **Android** \(le Playstore est composé à 80% d’application écrite avec Java\), des logiciels, des jeux-vidéos, des utilitaires et bien d'autres, comme le dit si bien [www.java.com](https://www.java.com) :
 
