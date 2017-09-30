@@ -3,8 +3,7 @@
 ## Introduction
 
 * [Préface](README.md)
-  * [Introduction à Java](introduction/introduction.md)
-
+* [Introduction à Java](introduction/introduction.md)
 
 ## Java Virtual Machine
 
