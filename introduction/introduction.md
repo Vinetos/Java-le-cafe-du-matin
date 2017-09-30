@@ -1,12 +1,14 @@
-# Tour d'horizon
+# Introduction à Java
+
+## Un tour d'horizon
 
 Pour commencer en beauté, je vous propose de définir « **Java** ».
 
-Java est un langage de **programmation** développé initialement par **Sun Microsystems** \(aujourd’hui racheté par **Oracle**\).
+Java est un **langage de programmation**[^1] développé initialement par **Sun Microsystems** \(aujourd’hui racheté par **Oracle**\).
 
-Java c’est plus de **10 millions** **de développeurs** à travers le monde, quelques **3 milliards de dispositifs** pouvant le mettre en œuvre. Il est présent chez **97% des entreprises** dont Google, Facebook et bien d’autre.
+Java s’est plus de **10 millions** **de développeurs** à travers le monde, quelques **3 milliards de dispositifs** pouvant le mettre en œuvre. Il est présent chez plus de **97% des entreprises** dont Google, Facebook et bien d’autre.
 
-En 2016, Java était le langage **le plus demandé** à hauteur de 28%. Il permet de réaliser énormément de choses bien différentes: des applications pour mobile \(le Playstore est composé à 80% d’application écrite avec Java\), des logiciels, des jeux-vidéos, des utilitaires… et bien d'autres, comme le dit si bien [www.java.com](https://www.java.com)
+En 2016, Java était le langage **le plus demandé** à hauteur de 28%. Il permet de réaliser énormément de choses bien différentes: des applications pour mobile comme **Android** \(le Playstore est composé à 80% d’application écrite avec Java\), des logiciels, des jeux-vidéos, des utilitaires et bien d'autres, comme le dit si bien [www.java.com](https://www.java.com) :
 
 > La technologie Java vous permet de travailler et de vous divertir dans un environnement informatique sécurisé. \[...\]
 >
@@ -22,5 +24,7 @@ Java est un langage parfait pour une première fois :
 * Il est **multitâches**.
 * Il est **simple**. Chaque ligne peut être traduite littéralement pour en comprendre le sens.
 
-Java est donc d'après moi, l'un des **meilleurs langages** pour débuter.
+Java est donc d'après moi, l'un des **meilleurs langages** pour débuter. Nous reverrons en détails chacun de ses points de manière plus précise un peu plus tard.
+
+[^1]: Les langages de programmation permettent de définir les ensembles d'instructions effectuées par l'ordinateur lors de l'exécution d'un programme.
 
