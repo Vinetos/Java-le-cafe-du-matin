@@ -10,7 +10,7 @@ Le choix d'un IDE est **très important**. C’est ce qui vous fera **gagner én
 
 ## IntelliJ IDEA
 
-Pour ce tutoriel, j’ai choisi de vous parler d’[**IntelliJ IDEA**](https://www.jetbrains.com/idea/) par [Jetbrain](https://www.jetbrains.com/). C'est pour moi **le meilleur** IDE Java actuellement : Rapide, Éfficace, Support de beaucoup d'autre langages, Auto-complétion, Debugger, Customisable et extensible \(plugins\)...
+Pour ce tutoriel, j’ai choisi de vous parler d’[**IntelliJ IDEA**](https://www.jetbrains.com/idea/) par [Jetbrain](https://www.jetbrains.com/). C'est pour moi **le meilleur** IDE Java actuellement : Rapide, Éfficace, Support de beaucoup d'autre langages, Auto-complétion, Debugger, Customisable et extensible \(plugins\)... 
 
 ![](assets/ide/idea.png)
 
@@ -19,6 +19,4 @@ Nous allons dans ce tutoriel utiliser la **version gratuite** et **open-source**
 La version **Ultimate** propose un **essaie gratuit** de 30 jours et peut être obtenue **gratuitement** si vous êtes **étudiant** ou membre d'un projet **open-source**.
 
 > _Dans la suite de ce livre, j'utiliserai la version **Ultimate** mais tout sera réalisable avec la version **Comunity**._
-
-![](assets/ide/download-idea.png)
 
