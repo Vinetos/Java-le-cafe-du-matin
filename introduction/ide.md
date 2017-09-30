@@ -12,4 +12,6 @@ Pour ce tutoriel, j’ai choisi de vous parler d’**[IntelliJ IDEA](https://www
 
 ![](/assets/chrome_2017-09-30_13-58-32.png)
 
-Nous allons dans ce tutoriel utilisé la **version gratuite ** et **open-source** d'IntelliJ IDEA, qui se nomme « **Community Edition** »
+Nous allons dans ce tutoriel utiliser la **version gratuite** et **open-source** d'IntelliJ IDEA, qui se nomme « **Community Edition** ». Rendez sur le site de [JetBrain](https://www.jetbrains.com/idea/) et cliquer sur **Download**. Choisissez votre plateforme et télécharger la version **Community**.
+
+![](/assets/chrome_2017-09-30_14-02-02.png)
