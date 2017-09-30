@@ -39,6 +39,6 @@ public class HelloWorld {
 }
 ```
 
-
+Votre fichier doit ressembler à ceci:
 
 ![](assets/helloworld/step5.png)
