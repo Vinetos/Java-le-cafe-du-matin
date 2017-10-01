@@ -38,6 +38,9 @@ public class HelloWorld {
 
 }
 ```
+{% displayrun   src='introduction/assets/helloworld/HelloWorld.java', display='editor',
+                language='java', readOnly='true', theme='github' %}
+{% enddisplayrun %}
 
 Votre fichier doit ressembler à ceci:
 
