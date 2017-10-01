@@ -42,6 +42,8 @@ public class HelloWorld {
 
 }
 ```
+{% endmethod %}
+
 
 Votre fichier doit ressembler à ceci:
 
@@ -54,6 +56,5 @@ Cliquez sur la petite flèche verte à gauche du numéro des lignes et sélécti
 Une fenêtre s'ouvre en bas et vous affiche « Hello World ! ».
 
 ![](assets/helloworld/step7.png)
-{% endmethod %}
 
 **Félicitation**, vous venez de **créer, compiler et éxécuter** votre **premier** programme !
