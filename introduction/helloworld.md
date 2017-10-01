@@ -1,10 +1,11 @@
-{% method -%}
 ## Hello World {#helloworld}
 
 En informatique, **Hello world** (traduit littéralement par « bonjour le monde ») sont les mots écrits dans un programme informatique **simple** dont le but est d'en faire la **démonstration**.
 Autrement dit, ce sera notre **tout premier programme** dont le but sera de nous dire bonjour !
 
-Lancez IntelliJ et cliquez sur « **Create New Project** ».![](assets/helloworld/startup-intellij.png)
+Lancez IntelliJ et cliquez sur « **Create New Project** ».
+
+![](assets/helloworld/startup-intellij.png)
 
 Choisissez **Java** et cliquez sur **Next**.
 
@@ -28,6 +29,7 @@ Entrez « **HelloWorld** » comme nom et vérifier que le type soit bien **Class
 
 ![](assets/helloworld/step4.png)
 
+{% method -%}
 Dans **l'éditeur de texte** (à droite), remplace tout le contenu par celui-ci:
  
 {% sample lang="java" -%}
