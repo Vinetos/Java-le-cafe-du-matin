@@ -31,7 +31,7 @@ Entrez « **HelloWorld** » comme nom et vérifier que le type soit bien **Class
 Dans **l'éditeur de texte** (à droite), remplace tout le contenu par celui-ci:
  
 {% sample lang="java" -%}
-```Java
+```java
 public class HelloWorld {
 
     public static void main(String[] args) {
