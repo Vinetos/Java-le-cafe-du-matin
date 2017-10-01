@@ -56,8 +56,8 @@ Cliquez sur la petite flèche verte à gauche du numéro des lignes et sélécti
 
 ### Sortie console
 {% method -%}
-#### HelloWorld.java
-Dans **l'éditeur de texte** (à droite), remplace tout le contenu par celui-ci:
+
+Une fenêtre s'ouvre en bas et vous affiche « Hello World ! ».
  
 {% sample lang="java" -%}
 ```java
@@ -69,9 +69,6 @@ public class HelloWorld {
 
 }
 ```
-
-
-Une fenêtre s'ouvre en bas et vous affiche « Hello World ! ».
 
 ![](assets/helloworld/step7.png)
 {% endmethod %}
