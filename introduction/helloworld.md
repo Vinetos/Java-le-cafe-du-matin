@@ -29,8 +29,15 @@ Entrez « **HelloWorld** » comme nom et vérifier que le type soit bien **Class
 
 Dans **l'éditeur de texte** (à droite), remplace tout le contenu par celui-ci: 
 
-{% displayrun src='assets/helloworld/HelloWorld.java', language='java', theme='chrome' %}
-{% enddisplayrun %}
+```Java
+public class HelloWorld {
+
+    public static void main(String[] args) {
+        System.out.println("Hello World !");
+    }
+
+}
+```
 
 Votre fichier doit ressembler à ceci:
 
