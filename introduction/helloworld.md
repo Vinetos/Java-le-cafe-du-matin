@@ -32,7 +32,11 @@ Entrez « **HelloWorld** » comme nom et vérifier que le type soit bien **Class
 {% method -%}
 #### HelloWorld.java
 Dans **l'éditeur de texte** (à droite), remplace tout le contenu par celui-ci:
- 
+
+Votre fichier doit ressembler à ceci:
+
+![](assets/helloworld/step5.png)
+
 {% sample lang="java" -%}
 ```java
 public class HelloWorld {
@@ -44,34 +48,14 @@ public class HelloWorld {
 }
 ```
 {% endmethod %}
-
-
-Votre fichier doit ressembler à ceci:
-
-![](assets/helloworld/step5.png)
 
 Cliquez sur la petite flèche verte à gauche du numéro des lignes et séléctionnez « **Run 'HelloWorld.main()'** ».
 
 ![](assets/helloworld/step6.png)
 
 ### Sortie console
-{% method -%}
-
 Une fenêtre s'ouvre en bas et vous affiche « Hello World ! ».
 
 ![](assets/helloworld/step7.png)
- 
-{% sample lang="java" -%}
-```java
-public class HelloWorld {
-
-    public static void main(String[] args) {
-        System.out.println("Hello World !");
-    }
-
-}
-```
-
-{% endmethod %}
 
 **Félicitation**, vous venez de **créer, compiler et éxécuter** votre **premier** programme !
