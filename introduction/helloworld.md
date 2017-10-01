@@ -1,4 +1,5 @@
-# Hello World
+{% method -%}
+## Hello World {#helloworld}
 
 En informatique, **Hello world** (traduit littéralement par « bonjour le monde ») sont les mots écrits dans un programme informatique **simple** dont le but est d'en faire la **démonstration**.
 Autrement dit, ce sera notre **tout premier programme** dont le but sera de nous dire bonjour !
@@ -27,8 +28,9 @@ Entrez « **HelloWorld** » comme nom et vérifier que le type soit bien **Class
 
 ![](assets/helloworld/step4.png)
 
-Dans **l'éditeur de texte** (à droite), remplace tout le contenu par celui-ci: 
-
+Dans **l'éditeur de texte** (à droite), remplace tout le contenu par celui-ci:
+ 
+{% sample lang="java" -%}
 ```Java
 public class HelloWorld {
 
@@ -50,5 +52,6 @@ Cliquez sur la petite flèche verte à gauche du numéro des lignes et sélécti
 Une fenêtre s'ouvre en bas et vous affiche « Hello World ! ».
 
 ![](assets/helloworld/step7.png)
+{% endmethod %}
 
 **Félicitation**, vous venez de **créer, compiler et éxécuter** votre **premier** programme !
