@@ -3,7 +3,7 @@
     "pluginsConfig": {
         "theme-api": {
             "theme": "dark",
-            "split":true
+            "split": true
         }
     }
 }
