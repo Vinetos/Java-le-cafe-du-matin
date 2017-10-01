@@ -38,7 +38,7 @@ public class HelloWorld {
 
 }
 ```
-{% displayrun   src='introduction/assets/helloworld/HelloWorld.java', display='editor',
+{% displayrun   src='assets/helloworld/HelloWorld.java', display='editor',
                 language='java', readOnly='true', theme='github' %}
 {% enddisplayrun %}
 
