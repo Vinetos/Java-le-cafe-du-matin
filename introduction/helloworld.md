@@ -38,8 +38,7 @@ public class HelloWorld {
 
 }
 ```
-{% displayrun   src='assets/helloworld/HelloWorld.java', display='rub',
-                language='java', readOnly='true' %}
+{% displayrun   src='assets/helloworld/HelloWorld.java', display='both', language='java', readOnly='false' %}
 {% enddisplayrun %}
 
 Votre fichier doit ressembler à ceci:
