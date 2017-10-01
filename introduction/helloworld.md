@@ -29,7 +29,7 @@ Entrez « **HelloWorld** » comme nom et vérifier que le type soit bien **Class
 
 Dans **l'éditeur de texte** (à droite), remplace tout le contenu par celui-ci: 
 
-{% codeeditor src='assets/helloworld/HelloWorld.java', language='java', readOnly='false, theme='chrome' %}
+{% codeeditor src='assets/helloworld/HelloWorld.java', language='java', readOnly='false', theme='chrome' %}
 {% endcodeeditor %}
 
 Votre fichier doit ressembler à ceci:
