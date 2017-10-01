@@ -30,6 +30,7 @@ Entrez « **HelloWorld** » comme nom et vérifier que le type soit bien **Class
 ![](assets/helloworld/step4.png)
 
 {% method -%}
+#### HelloWorld.java
 Dans **l'éditeur de texte** (à droite), remplace tout le contenu par celui-ci:
  
 {% sample lang="java" -%}
@@ -53,8 +54,26 @@ Cliquez sur la petite flèche verte à gauche du numéro des lignes et sélécti
 
 ![](assets/helloworld/step6.png)
 
+### Sortie console
+{% method -%}
+#### HelloWorld.java
+Dans **l'éditeur de texte** (à droite), remplace tout le contenu par celui-ci:
+ 
+{% sample lang="java" -%}
+```java
+public class HelloWorld {
+
+    public static void main(String[] args) {
+        System.out.println("Hello World !");
+    }
+
+}
+```
+
+
 Une fenêtre s'ouvre en bas et vous affiche « Hello World ! ».
 
 ![](assets/helloworld/step7.png)
+{% endmethod %}
 
 **Félicitation**, vous venez de **créer, compiler et éxécuter** votre **premier** programme !
