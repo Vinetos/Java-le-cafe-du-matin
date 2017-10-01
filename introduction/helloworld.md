@@ -70,7 +70,6 @@ public class HelloWorld {
 }
 ```
 
-![](assets/helloworld/step7.png)
 {% endmethod %}
 
 **Félicitation**, vous venez de **créer, compiler et éxécuter** votre **premier** programme !
