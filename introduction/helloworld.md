@@ -58,6 +58,8 @@ Cliquez sur la petite flèche verte à gauche du numéro des lignes et sélécti
 {% method -%}
 
 Une fenêtre s'ouvre en bas et vous affiche « Hello World ! ».
+
+![](assets/helloworld/step7.png)
  
 {% sample lang="java" -%}
 ```java
