@@ -12,8 +12,17 @@ La différence entre JDK et JRE se présente de la façon suivante :
 
 * Le **JDK** \(Java Development Kit ou Kit de développement Java\) est quant à lui **l’ensemble des outils** pour **créer et compiler** nos logiciels incluant le JRE, le compilateur, des outils tel que les JavaDocs \(Documentations Java\), le Java Debugger etc…
 
-Aujoud'hui la plupart des IDEs dont nous verrons la définition plus tard **intègrent** leurs propres JDK. Pas besoin de le télécharger donc ! En revanche, il nous faudra le JRE.   
-Pour cela, téléchargez-le sur [le site de Java](https://www.java.com).
+## Installation 
+
+Aujoud'hui la plupart des IDEs dont nous verrons la définition plus tard **intègrent** leurs propres JRE. Pas besoin de le télécharger donc ! En revanche, il nous faudra le JDK afin de compiler nos programmmes.  
+Pour cela, téléchargez-le sur [le site de Java](http://www.oracle.com/technetwork/java/javase/downloads/index.html).
+
+Cliquez sur **Download** : 
+![](assets/jdk/download-1.png)  
+
+Séléctionner la version pour votre système d'exploitation et **installer-la**.
+
+![](assets/jdk/download-2.png)
 
 [^1]: Java Virtual Machine ou Machine Virtuelle Java en français
 
