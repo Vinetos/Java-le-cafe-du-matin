@@ -57,4 +57,20 @@ Une fenêtre s'ouvre en bas et vous affiche « Hello World ! ».
 
 ![](assets/helloworld/step7.png)
 
-**Félicitation**, vous venez de **créer, compiler et éxécuter** votre **premier** programme !
+**Félicitation**, vous venez de **créer, compiler et éxécuter** votre **premier** programme !  
+
+{% exercise %}
+### Exercez-vous  
+
+Vous pouvez vérifier que vous ayez compris en modifiant le code si dessous afin d'afficher **Bonjour !** dans la console.
+
+{% initial %}
+System.out.println("Hello World !");
+
+{% solution %}
+System.out.println("Bonjour !");
+
+{% validation %}
+assert(true == true);
+
+{% endexercise %}
