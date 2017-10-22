@@ -6,12 +6,13 @@ Le **bytecode** c'est « le langage que parle la JVM[^1] » : Il est obtenu à p
 
 > [_En savoir plus_](/jvm/jvm.md)_ sur la machine virtuelle Java._
 
-La différence entre JDK et JRE se présent de la façon suivante :
-- Le **JRE** (Java Runtime Environment ou l’Environnement d’exécution Java) est la **Machine Virtuelle Java**. C’est ici que le programme **s’exécute**. 
+La différence entre JDK et JRE se présente de la façon suivante :
 
-- Le **JDK** (Java Development Kit ou Kit de développement Java) est quant à lui **l’ensemble des outils** pour **créer et compiler** nos logiciels incluant le JRE, le compilateur, des outils tel que les JavaDocs (Documentations Java), le Java Debugger etc…
+* Le **JRE** \(Java Runtime Environment ou l’Environnement d’exécution Java\) est la **Machine Virtuelle Java**. C’est ici que le programme **s’exécute**.
 
-Aujoud'hui la plupart des IDEs dont nous verrons la définition plus tard **intègrent** leurs propres JDK. Pas besoin de le télécharger donc ! En revanche, il nous faudra le JRE. 
+* Le **JDK** \(Java Development Kit ou Kit de développement Java\) est quant à lui **l’ensemble des outils** pour **créer et compiler** nos logiciels incluant le JRE, le compilateur, des outils tel que les JavaDocs \(Documentations Java\), le Java Debugger etc…
+
+Aujoud'hui la plupart des IDEs dont nous verrons la définition plus tard **intègrent** leurs propres JDK. Pas besoin de le télécharger donc ! En revanche, il nous faudra le JRE.   
 Pour cela, téléchargez-le sur [le site de Java](https://www.java.com).
 
 [^1]: Java Virtual Machine ou Machine Virtuelle Java en français
