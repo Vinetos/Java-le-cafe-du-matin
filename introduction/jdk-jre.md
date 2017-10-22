@@ -24,5 +24,7 @@ Séléctionner la version pour votre système d'exploitation et **installer-la**
 
 ![](assets/jdk/download-2.png)
 
+> _Vous pouvez l'installer directement depuis les dépots si vous avez une machine unix._
+
 [^1]: Java Virtual Machine ou Machine Virtuelle Java en français
 
