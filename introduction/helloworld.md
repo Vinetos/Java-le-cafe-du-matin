@@ -29,10 +29,9 @@ Entrez « **HelloWorld** » comme nom et vérifier que le type soit bien **Class
 
 ![](assets/helloworld/step4.png)
 
-{% method -%}
 #### HelloWorld.java
 Dans **l'éditeur de texte** (à droite), remplace tout le contenu par celui-ci:
-
+{% method -%}
 Votre fichier doit ressembler à ceci:
 
 ![](assets/helloworld/step5.png)
