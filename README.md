@@ -26,7 +26,7 @@ La meilleur façon d'installer GitBook est via NPM. Ouvrez un terminal et tapez 
 $ npm install gitbook-cli -g
 ```
 {% endmethod %}
-gitbook-cli est un utilitaire pour installer plusieurs versions de gitbook sur le même système. Il permet d'installer automatiquement la version de gitbook utilisé par le livre.
+gitbook-cli est un utilitaire pour installer plusieurs versions de gitbook sur le même système. Il permet d'installer automatiquement la version de gitbook utilisé par le livre.  
 
 #### Cloner le livre
 
