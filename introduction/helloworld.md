@@ -11,7 +11,7 @@ Choisissez **Java** et cliquez sur **Next**.
 
 ![](assets/helloworld/step1.png)
 
-Cliquez une nouvelle fois sur **Next** puis entrez un nom et un endroit pour sauvegarder votre projet. Je l'appelle pour ma part **HelloWorld**. 
+Cliquez une nouvelle fois sur **Next** puis entrez un nom et un endroit pour sauvegarder votre projet. Je l'appelle pour ma part **HelloWorld**.
 
 ![](assets/helloworld/step2.png)
 
@@ -31,9 +31,10 @@ Entrez « **HelloWorld** » comme nom et vérifier que le type soit bien **Class
 
 #### HelloWorld.java
 Dans **l'éditeur de texte** (à droite), remplace tout le contenu par celui-ci:
-{% method -%}
+
 Votre fichier doit ressembler à ceci:
 
+{% method -%}
 ![](assets/helloworld/step5.png)
 
 {% sample lang="java" -%}
@@ -57,20 +58,4 @@ Une fenêtre s'ouvre en bas et vous affiche « Hello World ! ».
 
 ![](assets/helloworld/step7.png)
 
-**Félicitation**, vous venez de **créer, compiler et éxécuter** votre **premier** programme !  
-
-{% exercise %}
-### Exercez-vous  
-
-Vous pouvez vérifier que vous ayez compris en modifiant le code si dessous afin d'afficher **Bonjour !** dans la console.
-
-{% initial %}
-System.out.println("Hello World !");
-
-{% solution %}
-System.out.println("Bonjour !");
-
-{% validation %}
-assert(true == true);
-
-{% endexercise %}
+**Félicitation**, vous venez de **créer, compiler et éxécuter** votre **premier** programme !

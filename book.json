@@ -1,5 +1,5 @@
 {
-    "plugins": ["theme-api", "exercises"],
+    "plugins": ["theme-api", "exercises", "last-modified", "hide-published-with"],
     "pluginsConfig": {
         "theme-api": {
             "theme": "dark",
