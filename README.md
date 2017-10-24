@@ -26,11 +26,14 @@ La meilleur façon d'installer GitBook est via NPM. Ouvrez un terminal et tapez 
 $ npm install gitbook-cli -g
 ```
 {% endmethod %}
-gitbook-cli est un utilitaire pour installer plusieurs versions de gitbook sur le même système. Il permet d'installer automatiquement la version de gitbook utilisé par le livre.  
 
-#### Cloner le livre
+gitbook-cli est un utilitaire pour installer plusieurs versions de gitbook sur le même système.
+Il permet, en autres, d'installer automatiquement la version de gitbook utilisé par le livre.
+
+### Cloner le livre
 
 Faites une copie du [projet GitHub](https://github.com/Vinetos/Java-le-cafe-du-matin) et ouvrez un terminal dans celui-ci.
+
 {% method -%}
 On initialise le projet avec :  
 
@@ -42,7 +45,7 @@ $ gitbook init
 
 Vous pouvez désormais éditer le livre.
 
-#### Afficher les modifications
+### Afficher les modifications
 
 Pour vérifier que vos corrections s'adaptent avec le livre, vous devez le tester en local.
 {% method -%}
@@ -72,6 +75,8 @@ $ gitbook build
 ```  
 {% endmethod %}
 
-Si vous pensez que tout est correct, créer une pull request, les modifications seront revues et seront ajoutées dans le livre si elles sont retenues !
+### Soumettez
+
+Si vous pensez que tout est correct, créer une pull request, les modifications seront revues et seront ajoutées dans le livre si elles sont retenues !  
 
 > _(C) 2017 Vinetos - Tous droits réservés._
