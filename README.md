@@ -8,12 +8,12 @@ Il est lisible en ligne [ici](https://java.vinetos.fr).
 Une version **PDF** du livre est téléchargeable [en cliquant ici](https://www.gitbook.com/download/pdf/book/vinetos/java-le-cafe-du-matin).
 
 ##  L'auteur principal
-De son vrai nom Valentin Chassignol, Vinetos est un jeune développeur informatique. Grand fan d'informatique et d’électronique, il « bricole et bidouille pleins de petits trucs » comme diraient ses parents. Il essaye un maximum de chose et expérimente tout et n'importe quoi. Il aime comprendre comment un système fonctionne (reverse-engeenering). « Logiciels, applications (mobile & web), graphisme, animations (2D et 3D), compositions musicales sont des choses que je réalise souvent ! Ce livre est pour moi une façon de partager ma connaissance à ceux qui souhaite s'aventurer dans la même branche que moi ».
+De son vrai nom Valentin Chassignol, Vinetos est un jeune développeur informatique. Grand fan d'informatique et d’électronique, il « bricole et bidouille pleins de petits trucs » comme diraient ses parents. Il essaye un maximum de choses et expérimente tout et n'importe quoi. Il aime comprendre comment un système fonctionne (reverse-engeenering) et aime produire tout lui même. « Logiciels, applications (mobile & web), graphisme, animations (2D et 3D), compositions musicales sont des choses que je réalise souvent ! Ce livre est pour moi une façon de partager ma connaissance à ceux qui souhaite s'aventurer dans la même branche que moi. C'est pour moi une occasion de transmettre ma passion.».
 
 ## Comment participer au livre
 ### Prérequis  
 
-Ce livre utilise la technologie [GitBook](https://www.gitbook.com). Pour voir la mise en forme du livre, vous devez avoir besoin de deux prérequis :
+Ce livre utilise la technologie de [GitBook](https://www.gitbook.com) pour la mise en forme et la publication. Pour participer à l'édition du livre, vous avez deux prérequis :
  * NodeJS (v4.0.0 et plus)
  * Windows, Linux, Unix, or Mac OS X
 
