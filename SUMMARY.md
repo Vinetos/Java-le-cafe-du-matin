@@ -7,8 +7,8 @@
 
 ### L'environnement
 
-  * [JDK-JRE](introduction/jdk-jre.md)
-  * [IDE](introduction/ide.md)
-  * [Hello World](introduction/helloworld.md)
+* [JDK-JRE](introduction/jdk-jre.md)
+* [IDE](introduction/ide.md)
+* [Hello World](introduction/helloworld.md)
 
 ### Les bases du langage
