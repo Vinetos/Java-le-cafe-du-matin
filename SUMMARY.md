@@ -11,4 +11,6 @@
 * [IDE](introduction/ide.md)
 * [Hello World](introduction/helloworld.md)
 
-### Les bases du langage
+### Les fondements
+
+* [Les bases de Java](basics/basics.md)
