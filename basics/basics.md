@@ -7,7 +7,7 @@ Vous pouver concidérer cette partie comme la base de votre pyramide d'apprentis
 
 Nous allons apprendre la [syntaxe](https://en.wikipedia.org/wiki/Java_syntax) de programmation Java et les bases communes à tous les langages de programmation.
 
-* Commentaires
+* [Commentaires](comments.md)
 * Variables
 * Opérateurs
 * Expressions, Déclarations et blocs.

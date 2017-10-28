@@ -14,3 +14,4 @@
 ### Les fondements
 
 * [Les bases de Java](basics/basics.md)
+  * [Les commentaires](basics/comments.md)
