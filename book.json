@@ -4,6 +4,6 @@
         "theme-api": {
             "theme": "dark",
             "split": false
-        },
+        }
     }
 }
