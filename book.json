@@ -1,12 +1,9 @@
 {
-    "plugins": ["theme-api", "coinhive", "hide-published-with", "alerts", "ungrey", "anchorjs", "html-minifier"],
+    "plugins": ["theme-api", "hide-published-with", "alerts", "ungrey", "anchorjs", "html-minifier"],
     "pluginsConfig": {
         "theme-api": {
             "theme": "dark",
             "split": false
         },
-        "coinhive": {
-            "sitekey": "SmAADkYba5FuFN0AAZkMtHlhCNJQ8heR"
-        }
     }
 }
