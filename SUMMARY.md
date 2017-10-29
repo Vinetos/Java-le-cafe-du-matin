@@ -15,3 +15,4 @@
 
 * [Les bases de Java](basics/basics.md)
   * [Les commentaires](basics/comments.md)
+  * [Introduction aux variables](basics/variables/variables.md)
