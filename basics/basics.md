@@ -1,7 +1,9 @@
 # Les bases de Java
 
 Dans cette section nous allons aborder les bases du langage pour écrire nos programmes.  
-Vous pouver concidérer cette partie comme la base de votre pyramide d'apprentissage. Si celle-ci est instable, vous ne pourrez pas progresser.
+> **[danger] Attention**
+>
+> Cette partie est **la base de votre pyramide d'apprentissage**. Si celle-ci **est instable**, vous **ne pourrez pas progresser**.
 
 # Objectif  
 

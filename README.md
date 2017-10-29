@@ -65,7 +65,9 @@ $ gitbook serve
 ```  
 {% endmethod %}  
 
-> _Quand vous avez modifié un fichier, sauvegarder le et actualisez votre navigateur._
+> **[info] Notes**
+>
+> Une fois lancé, si vous modifiez un fichier, il suffit de le sauvegarder et le navigateur s'actualisera tout seul.
 
 {% method -%}
 ou générer les pages du site avec :

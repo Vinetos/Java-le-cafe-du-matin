@@ -15,6 +15,8 @@ Cliquez une nouvelle fois sur **Next** puis entrez un nom et un endroit pour sau
 
 ![](assets/helloworld/step2.png)
 
+> **[danger] Attention**
+>
 > Il est important de noter que votre « **Project location** » **ne doit pas contenir** autre chose que **des lettres, des chiffres et des espaces**.
 > Autrement cela pose quelques bugs à l'IDE.
 
@@ -56,6 +58,8 @@ Cliquez sur la petite flèche verte à gauche du numéro des lignes et sélécti
 ### Sortie console
 Une fenêtre s'ouvre en bas et vous affiche « Hello World ! ».
 
-![](assets/helloworld/step7.png)
+![](assets/helloworld/step7.png)  
 
-**Félicitation**, vous venez de **créer, compiler et éxécuter** votre **premier** programme !
+> **[success] Félicitation**
+>
+> **Félicitation**, vous venez de **créer, compiler et éxécuter** votre **premier** programme !
