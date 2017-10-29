@@ -77,7 +77,7 @@ Java possède [**8 primitive datatypes**](https://docs.oracle.com/javase/tutoria
 | Type de variable | Définition | Minimum | Maximum | Valeur par défaut | Utilité |
 | ---------------- | ----------- | ------- | ------- | ----------------- | ------- |
 | float | Un nombre réel simple une sur avec [précision simple](https://en.wikipedia.org/wiki/Single-precision_floating-point_format) sur 32-bits [IEEE 754 floating point](https://en.wikipedia.org/wiki/Single-precision_floating-point_format#IEEE_754_single-precision_binary_floating-point_format:_binary32)| Na | | Na | 0.0f | float est utilisé pour des calculs nécessitant une grande précision comme la devise. Il permet aussi d'économiser de l'espace. |
-| double | Un nombre réel double une avec [précision double](https://en.wikipedia.org/wiki/Single-precision_floating-point_format) sur 64-bits [IEEE 754 floating point](https://en.wikipedia.org/wiki/Single-precision_floating-point_format#IEEE_754_single-precision_binary_floating-point_format:_binary32)| Na | | Na | 0.0d | double est utilisé pour des calculs ne nécessitant pas une très grande précision. Il souvent le choix par defaut |
+| double | Un nombre réel double une avec [précision double](https://en.wikipedia.org/wiki/Single-precision_floating-point_format) sur 64-bits [IEEE 754 floating point](https://en.wikipedia.org/wiki/Double-precision_floating-point_format#IEEE_754_double-precision_binary_floating-point_format:_binary64)| Na | | Na | 0.0d | double est utilisé pour des calculs ne nécessitant pas une très grande précision. Il souvent le choix par defaut |
 
 ### Autres  
 
@@ -85,9 +85,6 @@ Java possède [**8 primitive datatypes**](https://docs.oracle.com/javase/tutoria
 | ---------------- | ----------- | ------- | ------- | ----------------- | ------- |
 | boolean | Une information sur 1 bit. Accepte uniquement **true** ou **false** | Na | Na | false | boolean est utilisé dans des conditions simples |
 | char | Un caractère Unicode 16-bit. | '\u0000' (ou 0) | '\uffff' (ou 65,535) | Na | char est utilisé pour stoqué n'importe quel caractère (lettres, chiffres, % ou encore ❤)|
-
-## Objets  
-Les Objets sont des types de données plus complexes.
 
 ## Constantes
 
