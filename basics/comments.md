@@ -14,7 +14,7 @@ Des **Single-line** :
 ```  
 {% endmethod %}
 {% method -%}
-Des blocs de commentaires :  
+#### Des blocs de commentaires :  
 {% sample lang="java" -%}
 ```
 /* Ce commentaire couvre tout ce qui
