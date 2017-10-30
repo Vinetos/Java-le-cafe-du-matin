@@ -16,3 +16,6 @@
 * [Les bases de Java](basics/basics.md)
   * [Les commentaires](basics/comments.md)
   * [Introduction aux variables](basics/variables/variables.md)
+    * [Primitives](basics/variables/primitives.md)
+    * [Les objects](basics/variables/objects.md)
+    * [Les références](basics/variables/references.md)
