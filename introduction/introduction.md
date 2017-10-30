@@ -37,6 +37,6 @@ Voici quelques chiffres concernant sa popularité :
 
 ![](assets/intro/pypl.png)
 
-Comme on le voit, Java est **en tête devant tous les autres langages** et cela depuis bien **longtemps**. On peut noter que **Python** est en train de s'imposer face à la concurrence !
+Comme on le voit, Java est **très populaire**. Cela s'explique par le fait qu'il est relativement **simple** d'utilisation.
 
 [^1]: Les langages de programmation permettent de définir les ensembles d'instructions effectuées par l'ordinateur lors de l'exécution d'un programme.
