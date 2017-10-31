@@ -2,7 +2,7 @@
 
 _Java, le café du matin_ est un livre destiné à un **public débutant** en informatique voulant se lancer dans une **première expérience** de programmation. Il permettra d’**appréhender** les concepts de ce langage interplanétaire, d’en comprendre le **fonctionnement** et bien évidemment, d’**apprendre à écrire** vos premiers programmes.
 
-Ce livre à une particularité : Il est **open-source**. Libre à vous de contribuer à l’écriture de celui-ci et d'ajouter votre pierre à l'édifice sur [le projet GitHub](https://github.com/Vinetos/Java-le-cafe-du-matin).  
+Ce livre a une particularité : il est **open-source**. Libre à vous de contribuer à l’écriture de celui-ci et d'ajouter votre pierre à l'édifice sur [le projet GitHub](https://github.com/Vinetos/Java-le-cafe-du-matin).  
 Il est lisible en ligne [ici](https://java.vinetos.fr).
 
 Une version **PDF** du livre est téléchargeable [en cliquant ici](https://www.gitbook.com/download/pdf/book/vinetos/java-le-cafe-du-matin).
@@ -20,7 +20,7 @@ Ce livre utilise la technologie de [GitBook](https://www.gitbook.com) pour la mi
 #### Installation avec NPM
 
 {% method -%}
-La meilleur façon d'installer GitBook est via NPM. Ouvrez un terminal et tapez cette commande :
+La meilleure façon d'installer GitBook est via NPM. Ouvrez un terminal et tapez cette commande :
 {% sample lang="bash" -%}
 ```bash
 $ npm install gitbook-cli -g
@@ -79,6 +79,6 @@ $ gitbook build
 
 ### Soumettez
 
-Si vous pensez que tout est correct, créer une pull request, les modifications seront revues et seront ajoutées dans le livre si elles sont retenues !  
+Si vous pensez que tout est correct, créez une pull request, les modifications seront revues et seront ajoutées dans le livre si elles sont retenues !  
 
 > _(C) 2017 Vinetos - Tous droits réservés._

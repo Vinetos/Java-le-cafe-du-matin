@@ -1,9 +1,9 @@
 # Les commentaires  
 
 Les commentaires sont des lignes dans notre code qui vont être ignorée lors de la compilation et l'éxecution du programmes.  
-Ils nous permettent d'expliquer des parties de codes compliqués. Ils ont utiles pour nous et les autres développeurs.
+Ils nous permettent d'expliquer des parties de codes compliqués. Ils sont utiles pour nous et les autres développeurs.
 
-#### Regular comments
+#### Les commentaires réguliers
 
 Il existe deux types de commentaires dits « **réguliers** » :  
 {% method -%}
@@ -14,7 +14,7 @@ Des **Single-line** :
 ```  
 {% endmethod %}
 {% method -%}
-#### Des blocs de commentaires :  
+Des blocs de commentaires :  
 {% sample lang="java" -%}
 ```
 /* Ce commentaire couvre tout ce qui
@@ -25,7 +25,7 @@ Des **Single-line** :
 
 #### La javadocs  
 {% method -%}
-Un certain type de blocs de commentaires sont utilisés pour créer la **javadocs**. Pour faire simple, il s'agit de créer des pages html expliquant comment le code fonctionne. Nous reverrons cela plus tard.
+Un certain type de blocs de commentaires sont utilisés pour créer la **javadocs**. Pour faire simple, ils permettent de créer des sites webs expliquant comment le code fonctionne. Nous reverrons cela plus tard.
 En voici un exemple :  
 {% sample lang="java" -%}
 ```java
@@ -43,7 +43,7 @@ public static void main(String[] args) {
 
 # Utiliser les commentaires
 {% method -%}
-Les commentaires s'utilisent n'importe où dans le code. Vous pouvez réaliser des choses comme cecis :  
+Les commentaires s'utilisent n'importe où dans le code. Vous pouvez réaliser des choses comme ceci :  
 {% sample lang="java" -%}
 ```java
 public class HelloWorld {
