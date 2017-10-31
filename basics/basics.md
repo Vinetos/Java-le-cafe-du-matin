@@ -8,7 +8,7 @@ Dans cette section nous allons aborder les bases du langage pour écrire nos pro
 
 # Objectif  
 
-Nous allons apprendre la [syntaxe](https://en.wikipedia.org/wiki/Java_syntax) de programmation Java et les bases communes à tous les langages de programmation.
+Nous allons apprendre la [syntaxe](https://en.wikipedia.org/wiki/Java_syntax) de Java et les bases communes à tous les langages de programmation.
 
 * [Commentaires](comments.md)
 * [Variables](variables/variables.md)
