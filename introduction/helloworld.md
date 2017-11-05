@@ -23,16 +23,16 @@ Cliquez une nouvelle fois sur **Next** puis entrez un nom et un endroit pour sau
 Cliquez sur **Finish** et patientez le temps de chargement.
 
 Une nouvelle fenêtre va s'ouvrir. Elle contient **la structure du projet** à gauche et **l'éditeur de texte** à droite.
-Faites un **clique droit** sur le dossier bleu "src" et **créer une nouvelle classe**.
+Faites un **clique droit** sur le dossier bleu "src" et **créez une nouvelle classe**.
 
 ![](assets/helloworld/step3.png)
 
-Entrez « **HelloWorld** » comme nom et vérifier que le type soit bien **Class**.
+Entrez « **HelloWorld** » comme nom et vérifiez que le type soit bien **Class**.
 
 ![](assets/helloworld/step4.png)
 
 #### HelloWorld.java
-Dans **l'éditeur de texte** (à droite), remplace tout le contenu par celui-ci:
+Dans **l'éditeur de texte** (à droite), remplacez tout le contenu par celui-ci:
 
 Votre fichier doit ressembler à ceci:
 
@@ -60,6 +60,6 @@ Une fenêtre s'ouvre en bas et vous affiche « Hello World ! ».
 
 ![](assets/helloworld/step7.png)  
 
-> **[success] Félicitation**
+> **[success] Félicitations**
 >
-> **Félicitation**, vous venez de **créer, compiler et éxécuter** votre **premier** programme !
+> **Félicitations**, vous venez de **créer, compiler et éxécuter** votre **premier** programme !

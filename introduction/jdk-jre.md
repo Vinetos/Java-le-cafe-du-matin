@@ -2,7 +2,7 @@
 
 La **portabilité** de Java réside dans sa **machine virtuelle** : elle assure qu’un programme Java sera utilisable avec **tous les systèmes** où elle est installée. C’est en quelques sortes un logiciel qui nous permet, grâce à un stade intermédiaire appelé « ** bytecode** » , d’exécuter nos programmes sans devoir les recompiler.
 
-Le **bytecode** c'est « le langage que parle la JVM[^1] » : Il est obtenu à partir du **code source** \(listes d'instructions lisibles par le développeur\) en passant dans un **compilateur** \(qui le transforme en instructions lisibles par la JVM\).
+Le **bytecode** c'est « le langage que parle la JVM[^1] » : il est obtenu à partir du **code source** \(listes d'instructions lisibles par le développeur\) en passant dans un **compilateur** \(qui le transforme en instructions lisibles par la JVM\).
 
 > [_En savoir plus_](/jvm/jvm.md)_ sur la machine virtuelle Java._
 
@@ -20,12 +20,12 @@ Pour cela, téléchargez-le sur [le site de Java](http://www.oracle.com/technetw
 Cliquez sur **Download** :
 ![](assets/jdk/download-1.png)  
 
-Séléctionner la version pour votre système d'exploitation et **installer-la**.
+Séléctionner la version pour votre système d'exploitation et **installez-la**.
 
 ![](assets/jdk/download-2.png)
 
 > **[info] Notes**
 >
-> Vous pouvez l'installer directement depuis les dépots si vous avez une machine unix.
+> Vous pouvez l'installer directement depuis les dépôts si vous avez une machine unix.
 
 [^1]: Java Virtual Machine ou Machine Virtuelle Java en français
