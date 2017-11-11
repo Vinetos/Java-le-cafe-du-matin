@@ -67,7 +67,7 @@ $ gitbook serve
 
 > **[info] Notes**
 >
-> Une fois lancé, si vous modifiez un fichier, il suffit de le sauvegarder et le navigateur s'actualisera tout seul.
+> Une fois lancé, **si vous modifiez un fichier**, il suffit de le **sauvegarder** et le navigateur **s'actualisera tout seul**.
 
 {% method -%}
 ou générer les pages du site avec :
@@ -82,6 +82,9 @@ $ gitbook build
 Si vous pensez que tout est correct, créez une pull request, les modifications seront revues et seront ajoutées dans le livre si elles sont retenues !  
 
 ### Contributeurs  
-Valentin Chassignol (Vinetos), Charles De Haro (Gogume1er).
+
+* Valentin Chassignol (**_Vinetos_**)
+* Charles De Haro (**_Gogume1er_**)
+* Valentin Burgaud (**_Xharos_**)
 
 > _(C) 2017 Vinetos - Tous droits réservés._

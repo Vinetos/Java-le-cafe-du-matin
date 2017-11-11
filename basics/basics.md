@@ -8,10 +8,12 @@ Dans cette section nous allons aborder les bases du langage pour écrire nos pro
 
 # Objectif  
 
-Nous allons apprendre la [syntaxe](https://en.wikipedia.org/wiki/Java_syntax) de programmation Java et les bases communes à tous les langages de programmation.
+Nous allons apprendre la [syntaxe](https://en.wikipedia.org/wiki/Java_syntax) de Java et les bases communes à tous les langages de programmation.
 
-* [Commentaires](comments.md)
-* [Variables](variables/variables.md)
-* Opérateurs
-* Expressions, Déclarations et blocs.
-* Entrées/Sorties
+* [Les commentaires](comments.md)
+* [Les variables](variables/variables.md)
+* [Les objets](variable/objets.md)
+* Les opérandes
+* Les expressions, déclarations et blocs
+* Les conventions
+* Le côté obscure simplifié de la JVM
