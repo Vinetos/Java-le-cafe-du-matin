@@ -6,7 +6,7 @@ Pour commencer en beauté, je vous propose de définir « **Java** ».
 
 Java est un **langage de programmation**[^1] développé initialement par **Sun Microsystems** \(aujourd’hui racheté par **Oracle**\).
 
-Java c’est plus de **10 millions** **de développeurs** à travers le monde, quelques **3 milliards de dispositifs** pouvant le mettre en œuvre. Il est présent chez plus de **97% des entreprises** dont Google, Facebook et bien d’autre.  
+Java c’est plus de **10 millions** **de développeurs** à travers le monde, quelque **3 milliards de dispositifs** pouvant le mettre en œuvre. Il est présent chez plus de **97% des entreprises** dont Google, Facebook et bien d’autres.  
 
 ![](assets/intro/companies-using-java.png)
 
@@ -24,13 +24,13 @@ On peut noter qu'il a la deuxième plus grande popularité en 2016.
 
 Java est un **langage parfait** pour une première fois :
 
-* Il est **fortement typé.** Vous **savez** avec quel type de donées vous travailler.
-* Il gère la mémoire **tout seul.** Presque aucun risque de tout casser ! \(les poiteurs ? je ne connais pas\)
-* Il est **portable**, **indépendant** de toute plate-forme. Un code pour Windows, MacOS, Linux... ce n'est pas beau ?
-* Il est **multitâches**.
+* Il est **fortement typé.** Vous **savez** avec quel type de données vous travaillez.
+* Il gère la mémoire **tout seul.** Presque aucun risque de tout casser ! \(les pointeurs ? je ne connais pas\)
+* Il est **portable**, **indépendant** de toute plate-forme. Un code pour Windows, Mac OS, Linux... ce n'est pas beau ?
+* Il est **multitâche**.
 * Il est **simple**. Chaque ligne peut être traduite littéralement pour en comprendre le sens.
 
-Java est l'un des **meilleurs langages** pour débuter. Nous reverrons en détails chacun de ses points de manière plus précise un peu plus tard.  
+Java est l'un des **meilleurs langages** pour débuter. Nous reverrons en détail chacun de ses points de manière plus précise un peu plus tard.  
 Voici quelques chiffres concernant sa popularité :  
 
 ![](assets/intro/tiobe.png)

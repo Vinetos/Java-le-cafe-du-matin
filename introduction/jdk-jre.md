@@ -20,7 +20,7 @@ Pour cela, téléchargez-le sur [le site de Java](http://www.oracle.com/technetw
 Cliquez sur **Download** :
 ![](assets/jdk/download-1.png)  
 
-Séléctionner la version pour votre système d'exploitation et **installez-la**.
+Séléctionnez la version pour votre système d'exploitation et **installez-la**.
 
 ![](assets/jdk/download-2.png)
 

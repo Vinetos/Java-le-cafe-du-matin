@@ -2,22 +2,22 @@
 
 **Les variables** permettent de stocker des données dans notre programme. Elles sont placées dans la mémoire vive et doivent être **déclarées** (crées) avant de pouvoir être utilisées.
 
-Pour cela, elles ont besoin des plusieurs caractéristiques :
+Pour cela, elles ont besoin de plusieurs caractéristiques :
   * un **nom** : un nom sous lequel elle sera accessible dans notre code.
   * un **type** : il définit ce que la variable peut contenir (maximum, minimum, sa taille etc...). Le système d'exploitation alloue une partie de la mémoire vive différente en fonction des types utilisés donc veillez à **bien choisir le type** de variable.
   * une **valeur** : c'est le contenu de la variable, elle peut varier en fonction du temps si elle n'est pas déclarée [constantes](#constantes).
   * une **portée** : c'est la portion de code (la zone de code) où elle est utilisable.
   * une **visibilité** : ce sont les règles qui fixent qui a accès à cette variable (qui peut la voir et l'utiliser. ex: uniquement la méthode, la classe, le package, tout le projet...).
-  * une **adresse** : ou l'endroit de la mémoire où elle est stoquée.
-    > Ne concerne pas Java \(voir [les references](references.md)\) dans la suite.
+  * une **adresse** : ou l'endroit de la mémoire où elle est stockée.
+    > Ne concerne pas Java \(voir [les références](references.md)\) dans la suite.
 
-  * une **durée de vie** : si la variable n'est utilisé qu'une fois, elle n'a pas besoin d'exister pendant toute la durée du programme.
+  * une **durée de vie** : si la variable n'est utilisée qu'une fois, elle n'a pas besoin d'exister pendant toute la durée du programme.
 
 > **[danger] Attention**
 >
-> La **portée** et la **visibilité** sont deux choses bien **distinctes** malgrè qu'elles soient liées. Beaucoup de personnes ne percoivent pas la nuance mais elle est bien présente.
+> La **portée** et la **visibilité** sont deux choses bien **distinctes** malgré qu'elles soient liées. Beaucoup de personnes ne perçoivent pas la nuance mais elle est bien présente.
 
-Si on défini une variable ainsi :  
+Si on définit une variable ainsi :  
 
 ![](assets/var-def.png)  
 
@@ -36,9 +36,9 @@ Notre programme est composé de **3 parties** :
   * Calcul de la somme
   * Calcul du produit des deux
 
-Les variables de la **moyenne** ont une portée et une visibilité qui est la zone bleue. Les variables de la **somme** ont une portée et une visibilité qui est la zone violette. Elle sont ni visibles, ni accessibles de l'extérieur.   
-Les portées sont dit de la méthode car les variables peuvent être détruites une fois le calcul effectué.  
-Mais, nous avons deux exeptions ! _**resultat**_ peut voit les valeurs _**moyenne**_ et _**somme**_. On a changé leurs visibilités pour qu'elles soit accessibles dans le reste du programme.  
+Les variables de la **moyenne** ont une portée et une visibilité qui est la zone bleue. Les variables de la **somme** ont une portée et une visibilité qui est la zone violette. ElleS sont ni visibles, ni accessibles de l'extérieur.   
+Les portées sont dites de la méthode car les variables peuvent être détruites une fois le calcul effectué.  
+Mais, nous avons deux exceptions ! _**résultat**_ peut voit les valeurs _**moyenne**_ et _**somme**_. On a changé leurs visibilités pour qu'elles soient accessibles dans le reste du programme.  
 
 ## Déclarations
 {% method -%}
@@ -56,16 +56,16 @@ entier = 24; // On change la valeur de notre variable
 ```  
 {% endmethod %}  
 
-Le point-virgule signifie **la fin d'un instruction**. Nous les reverrons plus tard.
+Le point-virgule signifie **la fin d'une instruction**. Nous les reverrons plus tard.
 
 > **[danger] Attention**
 >
-> Une variable de type **XYZ** ne peux contenir que des données de type **XYZ**.
+> Une variable du type **XYZ** ne peut contenir que des données du type **XYZ**.
 
 ## Constantes  
 
 {% method -%}
-Les **constantes**, comme indique leur nom, sont des variables dont la valeur **ne change jamais** une fois déclarée. Elles s'écrivent avec le mot clé ``final``.
+Les **constantes**, comme indique leur nom, sont des variables dont la valeur **ne change jamais** une fois déclarée. Elles s'écrivent avec le mot-clé ``final``.
 
 {% sample lang="java" -%}
 ```java

@@ -1,8 +1,8 @@
 # References  
 
-Si vous avez des connaissances dans d'autre langages tel que le C++, ce terme de **references** ne vous est pas inconnu.  
-Une référence peut être vue comme un **alias d'une variable**. C'est à dire qu'utiliser la variable, ou une référence à cette variable est équivalent. Ce qui signifie que l'on peut modifier le contenu de la variable en utilisant une référence.  
-Vous allez voir que ce comportement de Java est particulié par rapport aux autres langages.
+Si vous avez des connaissances dans d'autres langages tels que le C++, ce terme de **références** ne vous est pas inconnu.  
+Une référence peut être vue comme un **alias d'une variable**. C'est-à-dire qu'utiliser la variable, ou une référence à cette variable est équivalent. Ce qui signifie que l'on peut modifier le contenu de la variable en utilisant une référence.  
+Vous allez voir que ce comportement de Java est particulier par rapport aux autres langages.
 
 ## En c++
 {% method -%}
@@ -53,8 +53,8 @@ r = 12; // On change la valeur de r
 Lorsqu'on utilise des [variables primitives](primitives.md), Java copie la variable et ne crée pas de références.  
 
 {% method -%}
-Si on utilise un Objet cela change :  
-J'ai crée mon object **Test** qui contient une variable **String** appelée **message**.
+Si on utilise un objet cela change :  
+J'ai créé mon objet **Test** qui contient une variable **String** appelée **message**.
 
 {% sample lang="java" -%}
 ```java
@@ -72,7 +72,7 @@ t2.message = "Salut";
 Comme on le voit, ``t2`` sert de référence à ``t1``. Donc si on modifie ``t2``, ça modifie ``t1``.
 
 {% method -%}
-Mais dans une méthode cela ce passe différemment :
+Mais dans une méthode cela se passe différemment :
 
 {% sample lang="java" -%}
 ```java
@@ -88,4 +88,4 @@ changeMessage(t1);
 ```   
 {% endmethod %}  
 
-Comme on le voit, on a crée une copie de la variable t1 qui sera utilisée dans la fonction, que ça soit un objet ou non.
+Comme on le voit, on a créé une copie de la variable ``t1`` qui sera utilisée dans la fonction, que ça soit un objet ou non.  

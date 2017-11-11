@@ -1,6 +1,6 @@
 ## Hello World {#helloworld}
 
-En informatique, **Hello world** (traduit littéralement par « bonjour le monde ») sont les mots écrits dans un programme informatique **simple** dont le but est d'en faire la **démonstration**.
+En informatique, **Hello world** (traduit littéralement par « bonjour le monde ») sont les mots écrits par un programme informatique **simple** dont le but est d'en faire la **démonstration**.
 Autrement dit, ce sera notre **tout premier programme** dont le but sera de nous dire bonjour !
 
 Lancez IntelliJ et cliquez sur « **Create New Project** ».
@@ -17,13 +17,13 @@ Cliquez une nouvelle fois sur **Next** puis entrez un nom et un endroit pour sau
 
 > **[danger] Attention**
 >
-> Il est important de noter que votre « **Project location** » **ne doit pas contenir** autre chose que **des lettres, des chiffres et des espaces**.
-> Autrement cela pose quelques bugs à l'IDE.
+> Il est important de savoir que votre « **Project location** » **ne doit pas contenir** autre chose que **des lettres, des chiffres et des espaces**.
+> Autrement cela peut poser des bugs et erreurs à l'IDE.
 
 Cliquez sur **Finish** et patientez le temps de chargement.
 
 Une nouvelle fenêtre va s'ouvrir. Elle contient **la structure du projet** à gauche et **l'éditeur de texte** à droite.
-Faites un **clique droit** sur le dossier bleu "src" et **créez une nouvelle classe**.
+Faites un **clique droit** sur le dossier bleu ``src`` et **créez une nouvelle classe**.
 
 ![](assets/helloworld/step3.png)
 
@@ -34,7 +34,7 @@ Entrez « **HelloWorld** » comme nom et vérifiez que le type soit bien **Class
 #### HelloWorld.java
 Dans **l'éditeur de texte** (à droite), remplacez tout le contenu par celui-ci:
 
-Votre fichier doit ressembler à ceci:
+Votre fichier doit ressembler à celui-ci:
 
 {% method -%}
 ![](assets/helloworld/step5.png)
