@@ -11,13 +11,13 @@ Le choix d'un IDE est **très important**. C’est ce qui vous fera **gagner én
 
 ## IntelliJ IDEA
 
-Pour ce tutoriel, j’ai choisi de vous parler d’[**IntelliJ IDEA**](https://www.jetbrains.com/idea/) par [Jetbrain](https://www.jetbrains.com/). C'est pour moi **le meilleur** IDE Java actuellement : Rapide, Éfficace, Support de beaucoup d'autre langages, Auto-complétion, Debugger, Customisable et extensible \(plugins\)...
+Pour ce tutoriel, j’ai choisi de vous parler d’[**IntelliJ IDEA**](https://www.jetbrains.com/idea/) par [Jetbrain](https://www.jetbrains.com/). C'est pour moi **le meilleur** IDE Java actuellement : Rapide, Éfficace, Support de beaucoup d'autres langages, Auto-complétion, Debugger, Customisable et extensible \(plugins\)...
 
 ![](assets/ide/idea.png)
 
-Nous allons dans ce tutoriel utiliser la **version gratuite** et **open-source** d'IntelliJ IDEA, qui se nomme « **Community Edition** ». Rendez vous sur le site de [JetBrain](https://www.jetbrains.com/idea/) et cliquez sur **Download**. Choisissez votre plateforme et téléchargez la version **Community**.
+Nous allons dans ce tutoriel utiliser la **version gratuite** et **open-source** d'IntelliJ IDEA, qui se nomme « **Community Edition** ». Rendez-vous sur le site de [JetBrain](https://www.jetbrains.com/idea/) et cliquez sur **Download**. Choisissez votre plateforme et téléchargez la version **Community**.
 
-La version **Ultimate** propose un **essaie gratuit** de 30 jours et peut être obtenue **gratuitement** si vous êtes **étudiant** ou membre d'un projet **open-source**.
+La version **Ultimate** propose un **essai gratuit** de 30 jours. Elle peut être obtenue **gratuitement** si vous êtes **étudiant** ou membre d'un projet **open-source**.
 
 > **[warning] Notes**
 >
