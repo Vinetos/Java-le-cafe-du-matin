@@ -82,6 +82,6 @@ $ gitbook build
 Si vous pensez que tout est correct, créez une pull request, les modifications seront revues et seront ajoutées dans le livre si elles sont retenues !  
 
 ### Contributeurs  
-Charles De Haro (Gogume1er).
+Valentin Chassignol (Vinetos), Charles De Haro (Gogume1er).
 
 > _(C) 2017 Vinetos - Tous droits réservés._
