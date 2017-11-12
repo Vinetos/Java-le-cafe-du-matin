@@ -1,7 +1,7 @@
 # Primitifs  
 Les variables dites **primitives** sont des types de données simples que l'on retrouve dans presque tous les autres langages de programmation.
 Elles peuvent être des nombres, un booléen ou un caractère Unicode.  
-À partir de celles-ci, on crée d'autres variables : [**les objets**](objects.md).
+À partir de celles-ci, on crée d'autres variables : [**les objets**](../objects-and-classes/objects-and-classes.md).
 
 Java possède [**8 primitive datatypes**](https://docs.oracle.com/javase/tutorial/java/nutsandbolts/datatypes.html) par défaut. On les appelle les **Primitive Data Types** (ou juste Primitive).  
 
@@ -16,7 +16,7 @@ Java possède [**8 primitive datatypes**](https://docs.oracle.com/javase/tutoria
 
 {% method -%}
 On voit que pour **certains types** de variables, on a besoin de spécifier le type avec une lettre derrière la valeur.  
-Par défaut, un nombre est de type int. Nous devons donc spécifier à Java qu'il s'agit d'un autre type de variable. Pour cela, on va [convertir](cast.md) les objets.
+Par défaut, un nombre est de type int. Nous devons donc spécifier à Java qu'il s'agit d'un autre type de variable. Pour cela, on va convertir (cast) les objets.
 {% sample lang="java" -%}
 ```java
 byte b = (byte) 12; // On convertit le nombre en byte

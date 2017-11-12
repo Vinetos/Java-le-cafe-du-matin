@@ -14,5 +14,7 @@
     * [Les commentaires](basics/comments.md)
     * [Introduction aux variables](basics/variables/variables.md)
         * [Les types primitifs](basics/variables/primitives.md)
-        * [Les objets](basics/variables/objects.md)
+        * [Les objets et classes](basics/objects-and-classes/objects-and-classes.md)
+          * [Les objets](basics/objects-and-classes/objects.md)
+          * [Les classes](basics/objects-and-classes/classes.md)
         * [Les références](basics/variables/references.md)
