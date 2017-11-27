@@ -1,9 +1,18 @@
 {
-    "plugins": ["theme-api", "hide-published-with", "alerts", "ungrey", "anchorjs", "html-minifier"],
+    "plugins": ["theme-api", "hide-published-with", "alerts", "ungrey", "anchorjs", "html-minifier", "meta"],
     "pluginsConfig": {
         "theme-api": {
             "theme": "dark",
             "split": false
+        },
+        "meta": {
+            "data": [
+                {"name": "author", "content": "Vinetos"},
+                {"name": "description", "content": "Java, le café du matin est un livre destiné à un public débutant en informatique voulant se lancer dans une première expérience de programmation."},
+                {"property": "og:title", "content": "Java, le café du matin - Vinetos"},
+                {"property": "og:description", "content": "Java, le café du matin est un livre destiné à un public débutant en informatique voulant se lancer dans une première expérience de programmation."},
+                {"property": "og:image", "content": "https://yt3.ggpht.com/-tsbChd5ocL8/AAAAAAAAAAI/AAAAAAAAAAA/ZrS65lZnU34/s900-c-k-no-mo-rj-c0xffffff/photo.jpg"}
+            ]
         }
     }
 }
