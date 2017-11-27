@@ -16,7 +16,7 @@ Et ses comportements peuvent être :
 * Allumer/Éteindre l’appareil
 * …
 
-Chaque objet **a obligatoirement une classe** qui peut être ma **même** si ce sont deux chiens par exemple, ou une différente s’il y a un chien et son maître.
+Chaque objet **a obligatoirement une classe** qui peut être la **même** si ce sont deux chiens par exemple, ou une différente s’il y a un chien et son maître.
 
 En programmation, c’est exactement la même chose. **Les états** sont stockés dans **des champs (fields)** et **les comportements** sont montrés via **les méthodes**.
 
