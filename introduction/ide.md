@@ -21,4 +21,4 @@ La version **Ultimate** propose un **essai gratuit** de 30 jours. Elle peut êtr
 
 > **[warning] Notes**
 >
-> Dans la suite de ce livre, j'utiliserai la version **Ultimate** mais tout sera réalisable avec la version **Comunity**.
+> Dans la suite de ce livre, j'utiliserai la version **Ultimate** mais tout sera réalisable avec la version **Community**.
