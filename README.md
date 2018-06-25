@@ -7,8 +7,15 @@ Il est lisible en ligne [ici](https://java.vinetos.fr).
 
 Une version **PDF** du livre est téléchargeable [en cliquant ici](https://www.gitbook.com/download/pdf/book/vinetos/java-le-cafe-du-matin).
 
+####  Note de mise à jour :
+Ce livre écrit pour Java 8 est en cours d'amélioration pour Java 9 et 10.
+
 ##  L'auteur principal
-De son vrai nom Valentin Chassignol, Vinetos est un jeune développeur informatique. Grand fan d'informatique et d’électronique, il « bricole et bidouille pleins de petits trucs » comme diraient ses parents. Il essaye un maximum de choses et expérimente tout et n'importe quoi. Il aime comprendre comment un système fonctionne (reverse-engeenering) et aime produire tout lui-même. « Logiciels, applications (mobile & web), graphisme, animations (2D et 3D), compositions musicales sont des choses que je réalise souvent ! Ce livre est pour moi une façon de partager ma connaissance à ceux qui souhaite s'aventurer dans la même branche que moi. C'est pour moi une occasion de transmettre ma passion.».
+Vinetos, ou Valentin Chassignol de son vrai nom, est un jeune développeur informatique. Grand fan d'informatique et d’électronique, il « bricole et bidouille pleins de petits trucs » comme diraient ses parents. Il essaye un maximum de choses et expérimente tout et n'importe quoi. Il aime comprendre comment un système fonctionne (reverse-engeenering) et aime produire tout lui-même. « Logiciels, applications (mobile & web), graphisme, animations (2D et 3D), compositions musicales sont des choses que j'aime faire ! Ce livre est pour moi une façon de partager ma connaissance à ceux qui souhaite s'aventurer dans la même branche que moi. C'est pour moi une occasion de transmettre ma passion et mon expérience.».  
+
+## À propos du cours
+Ce cours est proposé avec des appuis vidéos dans le but d'aider la compréhension. N'hésitez donc pas à visiter la chaine YouTube.  
+De plus, des sections d'**analogie** sont disponibles dans plusieurs parties du cours pour que puissiez comprendre de quoi en parle et ne pas rester bloqués. Elles se situent souvent en début ou fin de cours/chapitres (avec la conclusion).  
 
 ## Comment participer au livre
 ### Prérequis  
@@ -86,4 +93,4 @@ Si vous pensez que tout est correct, créez une pull request, les modifications 
 * Charles D. (**_Gogume1er_**)
 * Valentin Burgaud (**_Xharos_**)
 
-> _(C) 2017 Vinetos - Tous droits réservés._
+> _(C) 2017-2018 Vinetos - Tous droits réservés._
