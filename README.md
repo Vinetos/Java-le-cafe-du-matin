@@ -89,7 +89,7 @@ $ gitbook build
 Si vous pensez que tout est correct, créez une pull request, les modifications seront revues et seront ajoutées dans le livre si elles sont retenues !  
 
 ### Contributeurs  
-* Valentin Chassignol (**_Vinetos_**)
+* Valentin C. (**_Vinetos_**)
 * Charles D. (**_Gogume1er_**)
 * Valentin Burgaud (**_Xharos_**)
 
